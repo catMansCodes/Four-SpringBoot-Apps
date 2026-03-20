@@ -1,9 +1,7 @@
-# 2024-All-Codes
-
-All Projects in 2024
+# Springboot 3 Projects with line-by-line code
 
 
-<h3>1. Banking Applicaton Using Spring boot 3 & Java 17</h3>
-<h3>2. Expense Tarcking Applicaton Using Spring boot 3 & Java 17</h3>
-<h3>3. Student Management System Web Applicaton Using Spring boot 3 , MVC, MySQL, Java 17, Thymeleaf</h3>
-<h3>4. Spring boot & Apache kafka multiple projects</h3>
+## 1. Banking Application Using Spring boot 3 & Java 17
+## 2. Expense Tarcking Applicaton Using Spring boot 3 & Java 17
+## 3. Student Management System Web Applicaton Using Spring boot 3 , MVC, MySQL, Java 17, Thymeleaf
+## 4. Spring boot & Apache kafka multiple projects
